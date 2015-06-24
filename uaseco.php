@@ -46,7 +46,7 @@
 	define('UASECO_WEBSITE',	'http://www.UASECO.org/');
 
 	// Setup required official dedicated server build, Api-Version and PHP-Version
-	define('MANIAPLANET_BUILD',	'2015-06-16_18_00');
+	define('MANIAPLANET_BUILD',	'2015-06-16_16_53');
 	define('API_VERSION',		'2013-04-16');
 	define('MIN_PHP_VERSION',	'5.2.1');
 
